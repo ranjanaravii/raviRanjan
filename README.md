@@ -74,8 +74,8 @@ This portfolio is ready to be deployed on:
 
 ## 📧 Contact Information
 
-- **Email**: raviranjanroyrrr1@gmail.com
-- **Phone**: +91-9113707032
+- **Email**:
+- **Phone**: 
 - **GitHub**: github.com/ravi
 
 ## 🔧 Customization
